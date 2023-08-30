@@ -1,7 +1,5 @@
 # problem solving
 
-red = not solved   ,    Brown = MySQL
-
 [**1. two sum**](Solutions/1%20two%20sum%20532091433e064c7c9b7bbaec7a97d93f.md)
 
 [**3. Longest Substring Without Repeating Characters**](Solutions/3%20Longest%20Substring%20Without%20Repeating%20Characters%201d3a23c47eca4953982647488992a284.md)
@@ -76,15 +74,7 @@ red = not solved   ,    Brown = MySQL
 
 [**496. Next Greater Element I**](Solutions/496%20Next%20Greater%20Element%20I%20cde72f68940548f486ee5c69f41d5f66.md)
 
-- **595. Big Countries**
-    
-    [Big Countries - LeetCode](https://leetcode.com/problems/big-countries/)
-    
-    ```java
-    # Write your MySQL query statement below
-    SELECT name,population,area FROM World WHERE area >= 3000000 OR population >= 25000000;
-    ```
-    
+[**595. Big Countries**](Solutions/595%20Big%20Countries.md)
 
 [**657. Robot Return to Origin**](Solutions/657%20Robot%20Return%20to%20Origin%205975dcf388cf4ca1834b1816969d839c.md)
 
