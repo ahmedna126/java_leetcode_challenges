@@ -1,4 +1,30 @@
-# problem solving
+# problem solving 
+![](https://vbr.wocr.tk/badge?page_id=/java_leetcode_challenges&color=55acb7&logo=Github)
+[![](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://github.com/ahmedna126/java_leetcode_challenges/blob/master/LICENSE)
+![](https://img.shields.io/github/issues-raw/ahmedna126/java_leetcode_challenges?label=Issues)
+![](https://img.shields.io/github/forks/ahmedna126/java_leetcode_challenges.svg)
+
+
+
+
+<!-- TODO: host this with VBR too -->
+<!-- 
+
+// go to https://dev.to/envoy_/150-badges-for-github-pnk#github-stats
+
+
+![](https://vbr.wocr.tk/badge?page_id=/java_leetcode_challenges&color=55acb7&style=for-the-badge&logo=Github)
+[![](https://goreportcard.com/badge/github.com/ahmedna126/java_leetcode_challenges)](https://goreportcard.com/report/github.com/ahmedna126/java_leetcode_challenges)
+[![](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://github.com/ahmedna126/java_leetcode_challenges/blob/master/LICENSE)
+![](https://img.shields.io/github/issues-raw/ahmedna126/java_leetcode_challenges?label=Issues)
+![](https://img.shields.io/github/issues-closed-raw/ahmedna126/java_leetcode_challenges?label=Closed+Issues)
+![](https://img.shields.io/github/issues-pr-raw/ahmedna126/java_leetcode_challenges?label=Open+PRs)
+![](https://img.shields.io/github/issues-pr-closed-raw/ahmedna126/java_leetcode_challenges?label=Closed+PRs) 
+![](https://img.shields.io/github/downloads/ahmedna126/java_leetcode_challenges/total.svg)
+-->
+
+
+
 
 [**1. two sum**](Solutions/1%20two%20sum%20532091433e064c7c9b7bbaec7a97d93f.md)
 
