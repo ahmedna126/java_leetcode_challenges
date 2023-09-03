@@ -83,6 +83,8 @@
 
 [**228. Summary Ranges**](Solutions/228%20Summary%20Ranges%20c68e55b9e43744e3aba59d361b093367.md)
 
+[**231. Power of Two**](Solutions/231%20Power%20of%20Two%204bc525ee8f974975b31d1e5bb351e573.md)
+
 [**242. Valid Anagram**](Solutions/242%20Valid%20Anagram%20719bf6adf60e47deb01ea459a0d257fd.md)
 
 [**268. Missing Number**](Solutions/268%20Missing%20Number%20170d4aab9796423bb80e6889ee838d1d.md)
