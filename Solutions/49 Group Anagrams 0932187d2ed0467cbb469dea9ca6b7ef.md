@@ -14,6 +14,32 @@ class Solution {
 
         for (String s : strs)
         {
+            char chars[] = s.toCharArray();
+            Arrays.sort(chars);
+            String s2 = new String(chars);
+            
+            List<String> arr = hashmap.computeIfAbsent(s2, key -> new ArrayList<>());
+            arr.add(s);
+        }
+
+        return new ArrayList<>(hashmap.values());
+    }
+}
+```
+
+
+### code2
+
+```java
+class Solution {
+    public List<List<String>> groupAnagrams(String[] strs)
+    {
+        List<List<String>> list = new LinkedList<>();
+
+        HashMap<String , ArrayList<String>> hashmap = new HashMap<>();
+
+        for (String s : strs)
+        {
             char c1[] = s.toCharArray();
             Arrays.sort(c1);
             StringBuilder s2 = new StringBuilder();
@@ -38,7 +64,7 @@ class Solution {
 }
 ```
 
-### code2
+### code3
 
 ```java
 class Solution {
