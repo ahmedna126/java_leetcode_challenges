@@ -33,6 +33,8 @@
 
 [**3. Longest Substring Without Repeating Characters**](Solutions/3%20Longest%20Substring%20Without%20Repeating%20Characters%201d3a23c47eca4953982647488992a284.md)
 
+[**7. Reverse Integer**](Solutions/7%20Reverse%20Integer%20657fce4bb912481991644c066974ef24.md)
+
 [**9. Palindrome Number**](Solutions/9%20Palindrome%20Number%206f9d651b72ef4558a564a7dd80c396d0.md)
 
 [**13. Roman to Integer**](Solutions/13%20Roman%20to%20Integer%201a15ded0a7a44c758556671b16c0b897.md)
