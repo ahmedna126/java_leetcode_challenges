@@ -8,8 +8,6 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs)
     {
-        List<List<String>> list = new LinkedList<>();
-
         HashMap<String , ArrayList<String>> hashmap = new HashMap<>();
 
         for (String s : strs)
