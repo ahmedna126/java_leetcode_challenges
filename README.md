@@ -55,6 +55,8 @@
 
 [**35. Search Insert Position**](Solutions/35%20Search%20Insert%20Position%203e7c0816c86a4368898b4c289578aa50.md)
 
+[**49. Group Anagrams**](Solutions/49%20Group%20Anagrams%200932187d2ed0467cbb469dea9ca6b7ef.md)
+
 [**50. Pow(x, n)**](Solutions/50%20Pow(x,%20n)%20273807a6d31c4477a767f53c04d65d4d.md)
 
 [**58. Length of Last Word**](Solutions/58%20Length%20of%20Last%20Word%20f39e44e925064781a0022fcdf8818ed1.md)
