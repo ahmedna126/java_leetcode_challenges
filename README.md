@@ -143,6 +143,8 @@
 
 [**1572. Matrix Diagonal Sum**](Solutions/1572%20Matrix%20Diagonal%20Sum%20432349ca64bc48b2bec83abe49382fbb.md)
 
+[**1603. Design Parking System**](Solutions/1603%20Design%20Parking%20System%202321960382954dd7aa950e11f2ad1f8d.md)
+
 [**1757. Recyclable and Low Fat Products**](Solutions/1757%C2%A0Recyclable%20and%20Low%20Fat%20Products.md)
 
 [**1768. Merge Strings Alternately**](Solutions/1768%20Merge%20Strings%20Alternately%20c3cfc5aad5474232bca7162d1ffc53f0.md)
