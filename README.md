@@ -1,6 +1,6 @@
 # problem solving 
 ![](https://vbr.wocr.tk/badge?page_id=/java_leetcode_challenges&color=55acb7&logo=Github)
-![](https://img.shields.io/github/downloads/ahmedna126/java_leetcode_challenges/total.svg)
+![](https://komarev.com/ghpvc/?username=javaleetcodechallengesahmedna126&color=blue)
 [![](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://github.com/ahmedna126/java_leetcode_challenges/blob/master/LICENSE)
 ![](https://img.shields.io/github/stars/ahmedna126/java_leetcode_challenges.svg)
 ![](https://img.shields.io/github/issues-raw/ahmedna126/java_leetcode_challenges?label=Issues)
