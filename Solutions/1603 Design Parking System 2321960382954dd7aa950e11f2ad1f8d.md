@@ -3,6 +3,8 @@
 [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/problems/design-parking-system/)
 
 
+# code1
+
 ```Java
 class ParkingSystem {
 
@@ -22,6 +24,8 @@ class ParkingSystem {
  * boolean param_1 = obj.addCar(carType);
  */
 ```
+
+# code2
 
 ```java
 class ParkingSystem {
