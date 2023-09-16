@@ -7,6 +7,10 @@
 ![](https://img.shields.io/github/forks/ahmedna126/java_leetcode_challenges.svg)
 
 
+<!--![visitor](https://profile-counter.glitch.me/java_leetcode_challenges_ahmedna126/count.svg?)-->
+
+
+
 
 
 <!-- TODO: host this with VBR too -->
