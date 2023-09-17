@@ -82,6 +82,8 @@
 
 [**88. Merge Sorted Array**](Solutions/88%20Merge%20Sorted%20Array%202dfa0759a4d6401db24961e8970f63e1.md)
 
+[**118. Pascal's Triangle**](Solutions/118%20Pascal's%20Triangle%20be080e0ebfd9400f9366a27cf5077f05.md)
+
 [**125. Valid Palindrome**](Solutions/125%20Valid%20Palindrome%20a2f11f3da5ce483cbb155b52ffe5ea1d.md)
 
 [**136. Single Number**](Solutions/136%20Single%20Number%20f5e41a762f3f4aad86d3a6bda59defdc.md)
