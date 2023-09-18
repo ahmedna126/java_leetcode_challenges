@@ -142,6 +142,8 @@
 
 [**1275. Find Winner on a Tic Tac Toe Game**](Solutions/1275%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game%203c10870953ab4a48b23c3b0196fa668b.md)
 
+[**1337. The K Weakest Rows in a Matrix**](Solutions/1337%20The%20K%20Weakest%20Rows%20in%20a%20Matrix%205555a7c8fcb8441a9592c8a5a2a61913.md)
+
 [**1365. How Many Numbers Are Smaller Than the Current Number**](Solutions/1365%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20600001eacbec49389652663573da866a.md)
 
 [**1464. Maximum Product of Two Elements in an Array**](Solutions/1464%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array%20b164c1c43c5541eda626d86ec03234f7.md)
