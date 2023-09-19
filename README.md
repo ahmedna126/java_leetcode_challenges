@@ -106,6 +106,8 @@
 
 [**283. Move Zeroes**](Solutions/283%20Move%20Zeroes%20b631a81643684514a19bb9c4338e50f4.md)
 
+[**287. Find the Duplicate Number**](Solutions/287%20Find%20the%20Duplicate%20Number%20b9fbf44215b743c2a6b76378aa3dd113.md)
+
 [**347. Top K Frequent Elements**](Solutions/347%20Top%20K%20Frequent%20Elements%20bd68bce2f92d4360aa5a26ec846591b7.md)
 
 [**349. Intersection of Two Arrays**](Solutions/349%20Intersection%20of%20Two%20Arrays%205c2a47dd55e945acab1d28bc7fd8b716.md)
