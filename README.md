@@ -66,6 +66,8 @@
 
 [**35. Search Insert Position**](Solutions/35%20Search%20Insert%20Position%203e7c0816c86a4368898b4c289578aa50.md)
 
+[**36. Valid Sudoku**](Solutions/36%20Valid%20Sudoku%202a5f554b7ef04784a1ee6dd9726f914c.md)
+
 [**49. Group Anagrams**](Solutions/49%20Group%20Anagrams%200932187d2ed0467cbb469dea9ca6b7ef.md)
 
 [**50. Pow(x, n)**](Solutions/50%20Pow(x,%20n)%20273807a6d31c4477a767f53c04d65d4d.md)
