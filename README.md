@@ -94,6 +94,8 @@
 
 [**136. Single Number**](Solutions/136%20Single%20Number%20f5e41a762f3f4aad86d3a6bda59defdc.md)
 
+[**167. Two Sum II - Input Array Is Sorted**](Solutions/167%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted%202d953aa8f6314659abba61782c6cb983.md)
+
 [**169. Majority Element**](Solutions/169%20Majority%20Element%20ee712db24f8b419087e7c34d539962d6.md)
 
 [**206. Reverse Linked List**](Solutions/206%20Reverse%20Linked%20List%20181d5a1a12c0452594256fbd276cbb10.md)
