@@ -140,6 +140,8 @@
 
 [**682. Baseball Game**](Solutions/682%20Baseball%20Game%2060b04526e42d4fd18fd5fdb2c8b7ba30.md)
 
+[**704. Binary Search**](Solutions/704%20Binary%20Search%20943c307422214bac99527baff0921802.md)
+
 [**709. To Lower Case**](Solutions/709%20To%20Lower%20Case%2033d64220bf814f2a995c07c891ae5d7f.md)
 
 [**724. Find Pivot Index**](Solutions/724%20Find%20Pivot%20Index%20d42d1d27705c4928850de63b41f0d3e8.md)
