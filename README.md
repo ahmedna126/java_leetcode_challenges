@@ -90,6 +90,8 @@
 
 [**125. Valid Palindrome**](Solutions/125%20Valid%20Palindrome%20a2f11f3da5ce483cbb155b52ffe5ea1d.md)
 
+[**128. Longest Consecutive Sequence**](Solutions/128%20Longest%20Consecutive%20Sequence%20d9151fe3b12144a0ab63ba291557062c.md)
+
 [**136. Single Number**](Solutions/136%20Single%20Number%20f5e41a762f3f4aad86d3a6bda59defdc.md)
 
 [**169. Majority Element**](Solutions/169%20Majority%20Element%20ee712db24f8b419087e7c34d539962d6.md)
