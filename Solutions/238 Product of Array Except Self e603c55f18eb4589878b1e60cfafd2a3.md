@@ -18,21 +18,15 @@ class Solution {
             }
         }
         
-        if (countzero >= 2){
-             return res;
-        }else if (countzero == 1)
-        {
-            for (int i = 0; i < nums.length ; i++)
-            {
-                if (nums[i] == 0){
-                    res[i] = multiply;
-                }
-            }
-        }else {
-            for (int i = 0; i < nums.length; i++) {
+        if (countzero == 0){
+            for (int i = 0; i < nums.length; i++)
                 res[i] = multiply / nums[i];
-            }
+        }else if (countzero == 1) {
+            for (int i = 0; i < nums.length ; i++)
+                if (nums[i] == 0)
+                    res[i] = multiply;
         }
+
         return res;
     }
 }
