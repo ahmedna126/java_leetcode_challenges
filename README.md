@@ -109,7 +109,7 @@
 | 67 | 1523. Count Odd Numbers in an Interval Range | [Link](Solutions/1523%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range%20b06882dd230347c4a1f64668ba1a0dc4.md) |
 | 68 | 1572. Matrix Diagonal Sum | [Link](Solutions/1572%20Matrix%20Diagonal%20Sum%20432349ca64bc48b2bec83abe49382fbb.md) |
 | 69 | 1603. Design Parking System | [Link](Solutions/1603%20Design%20Parking%20System%202321960382954dd7aa950e11f2ad1f8d.md) |
-| 70 | 1757. Recyclable and Low Fat Products | |
+| 70 | 1757. Recyclable and Low Fat Products | [Link](Solutions/1757%C2%A0Recyclable%20and%20Low%20Fat%20Products.md) |
 | 71 | 1768. Merge Strings Alternately | [Link](Solutions/1768%20Merge%20Strings%20Alternately%20c3cfc5aad5474232bca7162d1ffc53f0.md) |
 | 72 | 1822. Sign of the Product of an Array | [Link](Solutions/1822%20Sign%20of%20the%20Product%20of%20an%20Array%206b7de1c39ed647528409b30bc8ae742a.md) |
 | 73 | 1920. Build Array from Permutation | [Link](Solutions/1920%20Build%20Array%20from%20Permutation%2085db8c9f63fc428489ac39da3ad34fd6.md) |
