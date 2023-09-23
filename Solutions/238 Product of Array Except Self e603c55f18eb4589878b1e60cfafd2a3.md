@@ -12,7 +12,6 @@ class Solution {
         {
             if (n == 0){
                 countzero++;
-                continue;
             }else {
                 multiply *= n;
             }
