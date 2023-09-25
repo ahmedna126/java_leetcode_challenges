@@ -41,7 +41,7 @@
 
 | Num | Question | Difficulty | Solution |
 | :--- | :--- | :--- | ---: |
-| 1 | 1. Two Sum | $${\color{Green}Easy}$$ | [Link](Solutions/1%20two%20sum%20532091433e064c7c9b7bbaec7a97d93f.md) |
+| 1 | 1. Two Sum | $\color{Green}Easy$ | [Link](Solutions/1%20two%20sum%20532091433e064c7c9b7bbaec7a97d93f.md) |
 | 2 | 3. Longest Substring Without Repeating Characters | $${\color{Orange}Medium}$$ | [Link](Solutions/3%20Longest%20Substring%20Without%20Repeating%20Characters%201d3a23c47eca4953982647488992a284.md) |
 | 3 | 7. Reverse Integer | $${\color{Orange}Medium}$$ | [Link](Solutions/7%20Reverse%20Integer%20657fce4bb912481991644c066974ef24.md) |
 | 4 | 9. Palindrome Number | $${\color{Green}Easy}$$ | [Link](Solutions/9%20Palindrome%20Number%206f9d651b72ef4558a564a7dd80c396d0.md) |
