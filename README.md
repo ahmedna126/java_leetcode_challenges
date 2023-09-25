@@ -1,6 +1,9 @@
 # problem solving 
 
 
+Visit my LeetCode profile at: [LeetCode Profile - Ahmedna126](https://leetcode.com/ahmedna126/)
+
+
 <!--### visitors 
 ![visitor](https://profile-counter.glitch.me/java_leetcode_challenges_ahmedna126/count.svg?)-->
 
@@ -13,7 +16,6 @@
 
 
 
-Visit my LeetCode profile at: [LeetCode Profile - Ahmedna126](https://leetcode.com/ahmedna126/)
 
 
 <!-- TODO: host this with VBR too -->
