@@ -98,19 +98,20 @@
 | 56 | 896. Monotonic Array | [Link](Solutions/896%20Monotonic%20Array%2084bea14fec2c49f3a63454bdd1fce801.md) |
 | 57 | 912. Sort an Array | [Link](Solutions/912%20Sort%20an%20Array%20ec23da2b18b84519a6a3690b6669966b.md) |
 | 58 | 1021. Remove Outermost Parentheses | [Link](Solutions/1021%20Remove%20Outermost%20Parentheses%207d070d4b213c49678d18bac7d53fa719.md) |
-| 59 | 1108. Defanging an IP Address | [Link](Solutions/1108%20Defanging%20an%20IP%20Address%20264057d2de6d48ac8d3b78020b6097e0.md) |
-| 60 | 1275. Find Winner on a Tic Tac Toe Game | [Link](Solutions/1275%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game%203c10870953ab4a48b23c3b0196fa668b.md) |
-| 61 | 1337. The K Weakest Rows in a Matrix | [Link](Solutions/1337%20The%20K%20Weakest%20Rows%20in%20a%20Matrix%205555a7c8fcb8441a9592c8a5a2a61913.md) |
-| 62 | 1365. How Many Numbers Are Smaller Than the Current Number | [Link](Solutions/1365%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20600001eacbec49389652663573da866a.md) |
-| 63 | 1464. Maximum Product of Two Elements in an Array | [Link](Solutions/1464%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array%20b164c1c43c5541eda626d86ec03234f7.md) |
-| 64 | 1480. Running Sum of 1d Array | [Link](Solutions/1480%20Running%20Sum%20of%201d%20Array%20e5f0539adb534d1b8fcc76e507b38b00.md) |
-| 65 | 1491. Average Salary Excluding the Minimum and Maximum Salary | [Link](Solutions/1491%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maxi%2062c9fa58b6694466b553186adcf68859.md) |
-| 66 | 1502. Can Make Arithmetic Progression From Sequence | [Link](Solutions/1502%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence%20514c47a9b05845e0853456a01d79e357.md) |
-| 67 | 1523. Count Odd Numbers in an Interval Range | [Link](Solutions/1523%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range%20b06882dd230347c4a1f64668ba1a0dc4.md) |
-| 68 | 1572. Matrix Diagonal Sum | [Link](Solutions/1572%20Matrix%20Diagonal%20Sum%20432349ca64bc48b2bec83abe49382fbb.md) |
-| 69 | 1603. Design Parking System | [Link](Solutions/1603%20Design%20Parking%20System%202321960382954dd7aa950e11f2ad1f8d.md) |
-| 70 | 1757. Recyclable and Low Fat Products | [Link](Solutions/1757%C2%A0Recyclable%20and%20Low%20Fat%20Products.md) |
-| 71 | 1768. Merge Strings Alternately | [Link](Solutions/1768%20Merge%20Strings%20Alternately%20c3cfc5aad5474232bca7162d1ffc53f0.md) |
-| 72 | 1822. Sign of the Product of an Array | [Link](Solutions/1822%20Sign%20of%20the%20Product%20of%20an%20Array%206b7de1c39ed647528409b30bc8ae742a.md) |
-| 73 | 1920. Build Array from Permutation | [Link](Solutions/1920%20Build%20Array%20from%20Permutation%2085db8c9f63fc428489ac39da3ad34fd6.md) |
-| 74 | 1929. Concatenation of Array | [Link](Solutions/1929%20Concatenation%20of%20Array%20f13fffc58e204ae6be988bd776e3f601.md) |
+| 59 | 1048. Longest String Chain | [Link](Solutions/1048%20Longest%20String%20Chain%20389969a9814b4bbebb7eaf0f3fc095f1.md) |
+| 60 | 1108. Defanging an IP Address | [Link](Solutions/1108%20Defanging%20an%20IP%20Address%20264057d2de6d48ac8d3b78020b6097e0.md) |
+| 61 | 1275. Find Winner on a Tic Tac Toe Game | [Link](Solutions/1275%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game%203c10870953ab4a48b23c3b0196fa668b.md) |
+| 62 | 1337. The K Weakest Rows in a Matrix | [Link](Solutions/1337%20The%20K%20Weakest%20Rows%20in%20a%20Matrix%205555a7c8fcb8441a9592c8a5a2a61913.md) |
+| 63 | 1365. How Many Numbers Are Smaller Than the Current Number | [Link](Solutions/1365%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20600001eacbec49389652663573da866a.md) |
+| 64 | 1464. Maximum Product of Two Elements in an Array | [Link](Solutions/1464%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array%20b164c1c43c5541eda626d86ec03234f7.md) |
+| 65 | 1480. Running Sum of 1d Array | [Link](Solutions/1480%20Running%20Sum%20of%201d%20Array%20e5f0539adb534d1b8fcc76e507b38b00.md) |
+| 66 | 1491. Average Salary Excluding the Minimum and Maximum Salary | [Link](Solutions/1491%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maxi%2062c9fa58b6694466b553186adcf68859.md) |
+| 67 | 1502. Can Make Arithmetic Progression From Sequence | [Link](Solutions/1502%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence%20514c47a9b05845e0853456a01d79e357.md) |
+| 68 | 1523. Count Odd Numbers in an Interval Range | [Link](Solutions/1523%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range%20b06882dd230347c4a1f64668ba1a0dc4.md) |
+| 69 | 1572. Matrix Diagonal Sum | [Link](Solutions/1572%20Matrix%20Diagonal%20Sum%20432349ca64bc48b2bec83abe49382fbb.md) |
+| 70 | 1603. Design Parking System | [Link](Solutions/1603%20Design%20Parking%20System%202321960382954dd7aa950e11f2ad1f8d.md) |
+| 71 | 1757. Recyclable and Low Fat Products | [Link](Solutions/1757%C2%A0Recyclable%20and%20Low%20Fat%20Products.md) |
+| 72 | 1768. Merge Strings Alternately | [Link](Solutions/1768%20Merge%20Strings%20Alternately%20c3cfc5aad5474232bca7162d1ffc53f0.md) |
+| 73 | 1822. Sign of the Product of an Array | [Link](Solutions/1822%20Sign%20of%20the%20Product%20of%20an%20Array%206b7de1c39ed647528409b30bc8ae742a.md) |
+| 74 | 1920. Build Array from Permutation | [Link](Solutions/1920%20Build%20Array%20from%20Permutation%2085db8c9f63fc428489ac39da3ad34fd6.md) |
+| 75 | 1929. Concatenation of Array | [Link](Solutions/1929%20Concatenation%20of%20Array%20f13fffc58e204ae6be988bd776e3f601.md) |
