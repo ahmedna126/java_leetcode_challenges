@@ -1,20 +1,20 @@
 # problem solving 
 
 
-Visit my LeetCode profile at: [LeetCode Profile - Ahmedna126](https://leetcode.com/ahmedna126/)
 
 
 <!--### visitors 
 ![visitor](https://profile-counter.glitch.me/java_leetcode_challenges_ahmedna126/count.svg?)-->
+<!--![](https://komarev.com/ghpvc/?username=javaleetcodechallengesahmedna126&color=blue&label=visitors)--> 
 
 ![](https://vbr.wocr.tk/badge?page_id=/java_leetcode_challenges&color=55acb7&logo=Github)
-![](https://komarev.com/ghpvc/?username=javaleetcodechallengesahmedna126&color=blue&label=visitors) 
 [![](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://github.com/ahmedna126/java_leetcode_challenges/blob/master/LICENSE)
 ![](https://img.shields.io/github/stars/ahmedna126/java_leetcode_challenges.svg)
 ![](https://img.shields.io/github/issues-raw/ahmedna126/java_leetcode_challenges?label=Issues)
 ![](https://img.shields.io/github/forks/ahmedna126/java_leetcode_challenges.svg)
 
 
+### Visit my LeetCode profile at: [LeetCode Profile - Ahmedna126](https://leetcode.com/ahmedna126/)
 
 
 
