@@ -119,3 +119,4 @@
 | 76 | 1822. Sign of the Product of an Array | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/1822%20Sign%20of%20the%20Product%20of%20an%20Array%206b7de1c39ed647528409b30bc8ae742a.md) |
 | 77 | 1920. Build Array from Permutation | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/1920%20Build%20Array%20from%20Permutation%2085db8c9f63fc428489ac39da3ad34fd6.md) |
 | 78 | 1929. Concatenation of Array | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/1929%20Concatenation%20of%20Array%20f13fffc58e204ae6be988bd776e3f601.md) |
+| 79 | 2460. Apply Operations to an Array | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/2460%20Apply%20Operations%20to%20an%20Array%2030d23016bc9f4533b7881bf9f83db7e3.md) |
