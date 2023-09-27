@@ -7,16 +7,18 @@
 ```java
 class Solution {
     public int[] applyOperations(int[] nums) {
-      int length = nums.length;
+        int length = nums.length;
         int [] arr = new int[length];
 
         for (int i = 0 , j = 0; i < length; i++)
         {
-            if (i < length-1 && nums[i] != 0 &&nums[i] == nums[i+1])
+            if(nums[i] == 0) continue;
+            
+            if (i < length-1 &&nums[i] == nums[i+1])
             {
                 arr[j++] = 2 * nums[i];
                 nums[++i] = 0;
-            }else if (nums[i] != 0){
+            }else{
                 arr[j++] = nums[i];
             }
         }
