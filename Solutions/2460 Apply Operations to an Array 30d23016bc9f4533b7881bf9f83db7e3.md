@@ -15,7 +15,7 @@ class Solution {
             if (i < length-1 && nums[i] != 0 &&nums[i] == nums[i+1])
             {
                 arr[j++] = 2 * nums[i];
-                nums[i+1] = 0;
+                nums[++i] = 0;
             }else if (nums[i] != 0){
                 arr[j++] = nums[i];
             }
