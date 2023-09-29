@@ -2,6 +2,8 @@
 
 [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/problems/time-based-key-value-store/)
 
+### Code1
+
 ```java
 class TimeMap {
 
@@ -38,6 +40,7 @@ class TimeMap {
 }
 ```
 
+### Code2
 ```java
 class TimeMap {
 
