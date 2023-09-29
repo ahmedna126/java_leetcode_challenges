@@ -68,7 +68,7 @@ class TimeMap {
 }
 ```
 
-# Code3
+### Code3
 ```Java
 class Pair {
     int timestamp;
