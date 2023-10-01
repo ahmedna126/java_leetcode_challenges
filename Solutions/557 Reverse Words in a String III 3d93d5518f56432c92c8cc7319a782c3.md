@@ -11,8 +11,8 @@ class Solution {
             res.append(new StringBuffer(str).reverse() + " ");
         }
         
-        res.deleteCharAt(res.length() - 1);
-        return res.toString();        
+       // res.deleteCharAt(res.length() - 1);   If you don't want to use trim()
+        return res.toString().trim();        
     }
 }
 ```
@@ -36,8 +36,8 @@ class Solution {
             }
         }
 
-        res.deleteCharAt(s.length());
-        return res.toString();
+      //  res.deleteCharAt(s.length());
+        return res.toString().trim();
     }
 }
 ```
