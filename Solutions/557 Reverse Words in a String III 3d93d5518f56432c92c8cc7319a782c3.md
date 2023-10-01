@@ -8,7 +8,7 @@ class Solution {
         StringBuilder res = new StringBuilder();
         String[] arr = s.split(" ");
         for (String str : arr){
-            res.append(new StringBuffer(str).reverse() + " ");
+            res.append(new StringBuffer(str).reverse().append(" "));
         }
         
        // res.deleteCharAt(res.length() - 1);   If you don't want to use trim()
@@ -55,7 +55,7 @@ class Solution {
             if (i == s.length()) {
                 res.append(temp.reverse() );
             }else if (s.charAt(i) == ' '){
-                res.append(temp.reverse() + " ");
+                res.append(temp.reverse().append(" "));
                 temp = new StringBuilder();
             } else {
                  temp.append(s.charAt(i));
