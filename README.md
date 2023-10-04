@@ -96,6 +96,7 @@
 | 53 | 657. Robot Return to Origin | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/657%20Robot%20Return%20to%20Origin%205975dcf388cf4ca1834b1816969d839c.md) |
 | 54 | 682. Baseball Game | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/682%20Baseball%20Game%2060b04526e42d4fd18fd5fdb2c8b7ba30.md) |
 | 55 | 704. Binary Search | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/704%20Binary%20Search%20943c307422214bac99527baff0921802.md) |
+| 55 | 706. Design HashMap | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/706%20Design%20HashMap%20f8de960f11144689b5cab2758794b25e.md) |
 | 56 | 709. To Lower Case | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/709%20To%20Lower%20Case%2033d64220bf814f2a995c07c891ae5d7f.md) |
 | 57 | 724. Find Pivot Index | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/724%20Find%20Pivot%20Index%20d42d1d27705c4928850de63b41f0d3e8.md) |
 | 58 | 771. Jewels and Stones | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/771%20Jewels%20and%20Stones%2008310d033e0049f0aa6788697c8a7dac.md) |
