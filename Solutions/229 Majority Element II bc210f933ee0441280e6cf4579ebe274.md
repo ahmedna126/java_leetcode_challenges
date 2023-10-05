@@ -60,10 +60,10 @@ class Solution {
         Iterator<Integer> it = hashSet.iterator();
         while (it.hasNext())
         {
-            int count = 0, num = it.next();
-            for (int i = 0 ; i < nums.length ; i++)
+           int count = 0, num = it.next();
+            for (int n : nums)
             {
-                if (num == nums[i]) count++;
+              if (n == num) count++;
             }
             if (count > nums.length/3) list.add(num);
         }
