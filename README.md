@@ -76,6 +76,7 @@
 | 33 | 217. Contains Duplicate |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/217%20Contains%20Duplicate%208b55c0fb490a458fbecfbaf258ce6630.md) |
 | 34 | 225. Implement Stack using Queues |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/225%20Implement%20Stack%20using%20Queues%209228427e285b482e9cc3903d658b1704.md) |
 | 35 | 228. Summary Ranges |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/228%20Summary%20Ranges%20c68e55b9e43744e3aba59d361b093367.md) |
+| 35 | 229. Majority Element II |  $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/229%20Majority%20Element%20II%20bc210f933ee0441280e6cf4579ebe274.md) |
 | 36 | 231. Power of Two |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/231%20Power%20of%20Two%204bc525ee8f974975b31d1e5bb351e573.md) |
 | 37 | 238. Product of Array Except Self | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/238%20Product%20of%20Array%20Except%20Self%20e603c55f18eb4589878b1e60cfafd2a3.md) |
 | 38 | 242. Valid Anagram |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/242%20Valid%20Anagram%20719bf6adf60e47deb01ea459a0d257fd.md) |
