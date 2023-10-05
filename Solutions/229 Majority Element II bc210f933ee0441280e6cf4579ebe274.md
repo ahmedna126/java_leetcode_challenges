@@ -44,4 +44,30 @@ class Solution {
         return list;  
     }
 }
+
+```
+
+
+### Code3
+
+```Java
+class Solution {
+    public List<Integer> majorityElement(int[] nums) {
+        List<Integer> list = new LinkedList<>();
+        HashSet <Integer> hashSet = new HashSet<>();
+        for (int n : nums) hashSet.add(n);
+
+        Iterator<Integer> it = hashSet.iterator();
+        while (it.hasNext())
+        {
+            int count = 0, num = it.next();
+            for (int i = 0 ; i < nums.length ; i++)
+            {
+                if (num == nums[i]) count++;
+            }
+            if (count > nums.length/3) list.add(num);
+        }
+        return list;
+    }
+}
 ```
