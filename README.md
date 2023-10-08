@@ -67,6 +67,7 @@
 | 24 | 88. Merge Sorted Array | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/88%20Merge%20Sorted%20Array%202dfa0759a4d6401db24961e8970f63e1.md) |
 | 25 | 118. Pascal's Triangle |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/118%20Pascal's%20Triangle%20be080e0ebfd9400f9366a27cf5077f05.md) |
 | 26 | 119. Pascal's Triangle II |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/119%20Pascal's%20Triangle%20II%209eb51128db714c84bf83704a5ec1cb55.md) |
+| 26 | 121. Best Time to Buy and Sell Stock |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
 | 27 | 125. Valid Palindrome |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/125%20Valid%20Palindrome%20a2f11f3da5ce483cbb155b52ffe5ea1d.md) |
 | 28 | 128. Longest Consecutive Sequence | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/128%20Longest%20Consecutive%20Sequence%20d9151fe3b12144a0ab63ba291557062c.md) |
 | 29 | 136. Single Number |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/136%20Single%20Number%20f5e41a762f3f4aad86d3a6bda59defdc.md) |
