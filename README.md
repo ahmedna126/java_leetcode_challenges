@@ -5,7 +5,13 @@
 
 <!--### visitors 
 ![visitor](https://profile-counter.glitch.me/java_leetcode_challenges_ahmedna126/count.svg?)-->
-<!--![](https://komarev.com/ghpvc/?username=javaleetcodechallengesahmedna126&color=blue&label=visitors)--> 
+<!--![](https://komarev.com/ghpvc/?username=javaleetcodechallengesahmedna126&color=blue&label=visitors)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+[![GitHub Forks](https://img.shields.io/github/forks/ahmedna126/java_leetcode_challenges.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Library-Management-System-JAVA/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/ahmedna126/java_leetcode_challenges.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Library-Management-System-JAVA/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+-->
+
 
 ![](https://vbr.wocr.tk/badge?page_id=/java_leetcode_challenges&color=55acb7&logo=Github)
 [![](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://github.com/ahmedna126/java_leetcode_challenges/blob/master/LICENSE)
