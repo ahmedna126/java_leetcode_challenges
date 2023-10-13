@@ -10,6 +10,10 @@
 [![GitHub Forks](https://img.shields.io/github/forks/ahmedna126/java_leetcode_challenges.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Library-Management-System-JAVA/fork)
 [![GitHub Issues](https://img.shields.io/github/issues/ahmedna126/java_leetcode_challenges.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Library-Management-System-JAVA/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+
+[![Discord](https://img.shields.io/discord/971046860317921344?label=Discord&logo=discord)](https://discord.gg/examople)
+[![GitHub](https://img.shields.io/github/license/ahmedna126/java_leetcode_challenges)](https://github.com/ahmedna126/java_leetcode_challenges/blob/master/LICENSE)
+![code-size](https://img.shields.io/github/languages/code-size/ahmedna126/java_leetcode_challenges)
 -->
 
 
@@ -18,7 +22,6 @@
 ![](https://img.shields.io/github/stars/ahmedna126/java_leetcode_challenges.svg)
 ![](https://img.shields.io/github/issues-raw/ahmedna126/java_leetcode_challenges?label=Issues)
 ![](https://img.shields.io/github/forks/ahmedna126/java_leetcode_challenges.svg)
-
 
 ### Visit my LeetCode profile at: [LeetCode Profile - Ahmedna126](https://leetcode.com/ahmedna126/)
 
