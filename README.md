@@ -139,3 +139,4 @@
 | 87 | 1929. Concatenation of Array | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/1929%20Concatenation%20of%20Array%20f13fffc58e204ae6be988bd776e3f601.md) |
 | 88 | 2215. Find the Difference of Two Arrays | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/2215%20Find%20the%20Difference%20of%20Two%20Arrays%20c096fbb9765a40c59ddba9a4f53bd2b1.md) |
 | 89 | 2460. Apply Operations to an Array | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/2460%20Apply%20Operations%20to%20an%20Array%2030d23016bc9f4533b7881bf9f83db7e3.md) |
+| 90 | 2904. Shortest and Lexicographically Smallest Beautiful String | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/2904.%20Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String.md) |
