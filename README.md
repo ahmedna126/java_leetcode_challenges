@@ -91,6 +91,7 @@
 | 38 | 231. Power of Two |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/231%20Power%20of%20Two%204bc525ee8f974975b31d1e5bb351e573.md) |
 | 39 | 238. Product of Array Except Self | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/238%20Product%20of%20Array%20Except%20Self%20e603c55f18eb4589878b1e60cfafd2a3.md) |
 | 40 | 242. Valid Anagram |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/242%20Valid%20Anagram%20719bf6adf60e47deb01ea459a0d257fd.md) |
+| 40 | 258. Add Digits |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/258.%20Add%20Digits.md) |
 | 41 | 268. Missing Number |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/268%20Missing%20Number%20170d4aab9796423bb80e6889ee838d1d.md) |
 | 42 | 278. First Bad Version |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/278.%20First%20Bad%20Version.md) |
 | 43 | 283. Move Zeroes |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/283%20Move%20Zeroes%20b631a81643684514a19bb9c4338e50f4.md) |
