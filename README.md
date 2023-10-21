@@ -109,6 +109,7 @@
 | 55 | 567. Permutation in String | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/567.%20Permutation%20in%20String.md) |
 | 56 | 581. Shortest Unsorted Continuous Subarray | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/581%20Shortest%20Unsorted%20Continuous%20Subarray%20f5e3ac2d5b644368a6fbf5a2aa268ce0.md) |
 | 57 | 595. Big Countries | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/595%20Big%20Countries.md) |
+| 57 | 609. Find Duplicate File in System | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/609.%20Find%20Duplicate%20File%20in%20System.md) |
 | 58 | 657. Robot Return to Origin | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/657%20Robot%20Return%20to%20Origin%205975dcf388cf4ca1834b1816969d839c.md) |
 | 59 | 682. Baseball Game | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/682%20Baseball%20Game%2060b04526e42d4fd18fd5fdb2c8b7ba30.md) |
 | 60 | 704. Binary Search | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/704%20Binary%20Search%20943c307422214bac99527baff0921802.md) |
