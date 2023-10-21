@@ -104,6 +104,7 @@
 | 51 | 459. Repeated Substring Pattern |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/459%20Repeated%20Substring%20Pattern%2020b295663d4549d29f2e2d3c3ce34d66.md) |
 | 52 | 463. Island Perimeter |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/463%20Island%20Perimeter%202b3f807c313f4386a495b5361ccc13ab.md) |
 | 53 | 496. Next Greater Element I | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/496%20Next%20Greater%20Element%20I%20cde72f68940548f486ee5c69f41d5f66.md) |
+| 53 | 520. Detect Capital | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/520.%20Detect%20Capital.md) |
 | 54 | 557. Reverse Words in a String III | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/557%20Reverse%20Words%20in%20a%20String%20III%203d93d5518f56432c92c8cc7319a782c3.md) |
 | 55 | 567. Permutation in String | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/567.%20Permutation%20in%20String.md) |
 | 56 | 581. Shortest Unsorted Continuous Subarray | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/581%20Shortest%20Unsorted%20Continuous%20Subarray%20f5e3ac2d5b644368a6fbf5a2aa268ce0.md) |
