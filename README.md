@@ -14,7 +14,11 @@
 [![Discord](https://img.shields.io/discord/971046860317921344?label=Discord&logo=discord)](https://discord.gg/examople)
 [![GitHub](https://img.shields.io/github/license/ahmedna126/java_leetcode_challenges)](https://github.com/ahmedna126/java_leetcode_challenges/blob/master/LICENSE)
 ![code-size](https://img.shields.io/github/languages/code-size/ahmedna126/java_leetcode_challenges)
+## 💖Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/ahmedna126/java_leetcode_challenges.svg)](https://starchart.cc/ahmedna126/java_leetcode_challenges)
 -->
+
 
 
 ![](https://vbr.wocr.tk/badge?page_id=/java_leetcode_challenges&color=55acb7&logo=Github)
