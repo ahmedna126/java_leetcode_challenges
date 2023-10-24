@@ -106,6 +106,7 @@
 | 46 | 347. Top K Frequent Elements | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/347%20Top%20K%20Frequent%20Elements%20bd68bce2f92d4360aa5a26ec846591b7.md) |
 | 47 | 349. Intersection of Two Arrays |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/349%20Intersection%20of%20Two%20Arrays%205c2a47dd55e945acab1d28bc7fd8b716.md) |
 | 48 | 383. Ransom Note |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/383%20Ransom%20Note%2003690c1c16c347efaed9abb77d518586.md) |
+| 48 | 387. First Unique Character in a String |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/387.%20First%20Unique%20Character%20in%20a%20String.md) |
 | 49 | 389. Find the Difference |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/389%20Find%20the%20Difference%2019162f02036f4e7dbcd1b714f3a97112.md) |
 | 50 | 392. Is Subsequence | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/392%20Is%20Subsequence%20d25839316ff74b389008933a661db4a0.md) |
 | 51 | 459. Repeated Substring Pattern |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/459%20Repeated%20Substring%20Pattern%2020b295663d4549d29f2e2d3c3ce34d66.md) |
