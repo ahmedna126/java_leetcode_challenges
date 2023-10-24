@@ -109,6 +109,7 @@
 | 48 | 387. First Unique Character in a String |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/387.%20First%20Unique%20Character%20in%20a%20String.md) |
 | 49 | 389. Find the Difference |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/389%20Find%20the%20Difference%2019162f02036f4e7dbcd1b714f3a97112.md) |
 | 50 | 392. Is Subsequence | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/392%20Is%20Subsequence%20d25839316ff74b389008933a661db4a0.md) |
+| 50 | 415. Add Strings | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/415.%20Add%20Strings.md) |
 | 51 | 459. Repeated Substring Pattern |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/459%20Repeated%20Substring%20Pattern%2020b295663d4549d29f2e2d3c3ce34d66.md) |
 | 52 | 463. Island Perimeter |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/463%20Island%20Perimeter%202b3f807c313f4386a495b5361ccc13ab.md) |
 | 53 | 496. Next Greater Element I | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/496%20Next%20Greater%20Element%20I%20cde72f68940548f486ee5c69f41d5f66.md) |
