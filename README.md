@@ -102,6 +102,7 @@
 | 45 | 287. Find the Duplicate Number | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/287%20Find%20the%20Duplicate%20Number%20b9fbf44215b743c2a6b76378aa3dd113.md) |
 | 45 | 326. Power of Three | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/326.%20Power%20of%20Three.md) |
 | 45 | 342. Power of Four | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/342.%20Power%20of%20Four.md) |
+| 45 | 344. Reverse String | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/344.%20Reverse%20String.md) |
 | 46 | 347. Top K Frequent Elements | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/347%20Top%20K%20Frequent%20Elements%20bd68bce2f92d4360aa5a26ec846591b7.md) |
 | 47 | 349. Intersection of Two Arrays |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/349%20Intersection%20of%20Two%20Arrays%205c2a47dd55e945acab1d28bc7fd8b716.md) |
 | 48 | 383. Ransom Note |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/383%20Ransom%20Note%2003690c1c16c347efaed9abb77d518586.md) |
