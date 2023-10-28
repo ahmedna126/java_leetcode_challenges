@@ -129,6 +129,7 @@
 | 65 | 844. Backspace String Compare | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/844.%20Backspace%20String%20Compare.md) |
 | 66 | 896. Monotonic Array | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/896%20Monotonic%20Array%2084bea14fec2c49f3a63454bdd1fce801.md) |
 | 67 | 912. Sort an Array | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/912%20Sort%20an%20Array%20ec23da2b18b84519a6a3690b6669966b.md) |
+| 67 | 917. Reverse Only Letters | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/917.%20Reverse%20Only%20Letters.md) |
 | 68 | 981. Time Based Key-Value Store | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/981%20Time%20Based%20Key-Value%20Store%20d47ba6a74fd64f73a6ef9cd5c2d38834.md) |
 | 69 | 1021. Remove Outermost Parentheses | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/1021%20Remove%20Outermost%20Parentheses%207d070d4b213c49678d18bac7d53fa719.md) |
 | 70 | 1048. Longest String Chain | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/1048%20Longest%20String%20Chain%20389969a9814b4bbebb7eaf0f3fc095f1.md) |
