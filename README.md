@@ -31,7 +31,7 @@
 ![](https://img.shields.io/github/forks/ahmedna126/java_leetcode_challenges.svg)
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ahmedna126)](https://leetcode.com/ahmedna126)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Ahmedna126)](https://leetcode.com/Ahmedna126)
 
 
 <!-- TODO: host this with VBR too -->
