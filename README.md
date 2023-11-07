@@ -17,6 +17,9 @@
 ## 💖Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/ahmedna126/java_leetcode_challenges.svg)](https://starchart.cc/ahmedna126/java_leetcode_challenges)
+
+### Visit my LeetCode profile at: [LeetCode Profile - Ahmedna126](https://leetcode.com/ahmedna126/)
+
 -->
 
 
@@ -27,7 +30,6 @@
 ![](https://img.shields.io/github/issues-raw/ahmedna126/java_leetcode_challenges?label=Issues)
 ![](https://img.shields.io/github/forks/ahmedna126/java_leetcode_challenges.svg)
 
-### Visit my LeetCode profile at: [LeetCode Profile - Ahmedna126](https://leetcode.com/ahmedna126/)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ahmedna126)](https://leetcode.com/ahmedna126)
 
