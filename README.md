@@ -90,6 +90,7 @@
 | 31 | 167. Two Sum II - Input Array Is Sorted | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/167%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted%202d953aa8f6314659abba61782c6cb983.md) |
 | 32 | 169. Majority Element |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/169%20Majority%20Element%20ee712db24f8b419087e7c34d539962d6.md) |
 | 33 | 202. Happy Number |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/202.%20Happy%20Number.md) |
+| 33 | 205. Isomorphic Strings |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/205.%20Isomorphic%20Strings.md) |
 | 34 | 206. Reverse Linked List |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/206%20Reverse%20Linked%20List%20181d5a1a12c0452594256fbd276cbb10.md) |
 | 35 | 217. Contains Duplicate |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/217%20Contains%20Duplicate%208b55c0fb490a458fbecfbaf258ce6630.md) |
 | 36 | 225. Implement Stack using Queues |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/225%20Implement%20Stack%20using%20Queues%209228427e285b482e9cc3903d658b1704.md) |
