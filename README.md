@@ -103,6 +103,7 @@
 | 44 | 278. First Bad Version |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/278.%20First%20Bad%20Version.md) |
 | 45 | 283. Move Zeroes |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/283%20Move%20Zeroes%20b631a81643684514a19bb9c4338e50f4.md) |
 | 46 | 287. Find the Duplicate Number | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/287%20Find%20the%20Duplicate%20Number%20b9fbf44215b743c2a6b76378aa3dd113.md) |
+| 46 | 290. Word Pattern | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/290.%20Word%20Pattern.md) |
 | 47 | 326. Power of Three | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/326.%20Power%20of%20Three.md) |
 | 48 | 342. Power of Four | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/342.%20Power%20of%20Four.md) |
 | 49 | 344. Reverse String | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/344.%20Reverse%20String.md) |
