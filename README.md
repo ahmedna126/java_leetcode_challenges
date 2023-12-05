@@ -20,8 +20,15 @@
 
 ### Visit my LeetCode profile at: [LeetCode Profile - Ahmedna126](https://leetcode.com/ahmedna126/)
 
--->
+--------------------------------------------
 
+<p align="center">
+  <a href="https://star-history.com/#ahmedna126/java_leetcode_challenges&Date">
+    <img src="https://api.star-history.com/svg?repos=ahmedna126/java_leetcode_challenges&type=Date" alt="Star History Chart">
+  </a>
+</p>
+
+-->
 
 
 ![](https://vbr.wocr.tk/badge?page_id=/java_leetcode_challenges&color=55acb7&logo=Github)
