@@ -37,11 +37,11 @@
 ![](https://img.shields.io/github/issues-raw/ahmedna126/java_leetcode_challenges?label=Issues)
 ![](https://img.shields.io/github/forks/ahmedna126/java_leetcode_challenges.svg)
 
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Ahmedna126)](https://leetcode.com/Ahmedna126)
 
 
 <!-- TODO: host this with VBR too -->
+![](https://img.shields.io/github/repo-size/ahmedna126/java_leetcode_challenges?style=flat-square)
 <!-- 
 
 // go to https://dev.to/envoy_/150-badges-for-github-pnk#github-stats
