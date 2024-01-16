@@ -119,6 +119,7 @@
 | 49 | 344. Reverse String | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/344.%20Reverse%20String.md) |
 | 50 | 347. Top K Frequent Elements | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/347%20Top%20K%20Frequent%20Elements%20bd68bce2f92d4360aa5a26ec846591b7.md) |
 | 51 | 349. Intersection of Two Arrays |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/349%20Intersection%20of%20Two%20Arrays%205c2a47dd55e945acab1d28bc7fd8b716.md) |
+| 51 | 380. Insert Delete GetRandom O(1).md | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/380.%20Insert%20Delete%20GetRandom%20O(1).md) |
 | 52 | 383. Ransom Note |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/383%20Ransom%20Note%2003690c1c16c347efaed9abb77d518586.md) |
 | 53 | 387. First Unique Character in a String |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/387.%20First%20Unique%20Character%20in%20a%20String.md) |
 | 54 | 389. Find the Difference |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/389%20Find%20the%20Difference%2019162f02036f4e7dbcd1b714f3a97112.md) |
