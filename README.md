@@ -96,6 +96,7 @@
 | 28 | 125. Valid Palindrome |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/125%20Valid%20Palindrome%20a2f11f3da5ce483cbb155b52ffe5ea1d.md) |
 | 29 | 128. Longest Consecutive Sequence | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/128%20Longest%20Consecutive%20Sequence%20d9151fe3b12144a0ab63ba291557062c.md) |
 | 30 | 136. Single Number |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/136%20Single%20Number%20f5e41a762f3f4aad86d3a6bda59defdc.md) |
+| 31 | 150. Evaluate Reverse Polish Notation | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/150.%20Evaluate%20Reverse%20Polish%20Notation.md) |
 | 31 | 167. Two Sum II - Input Array Is Sorted | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/167%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted%202d953aa8f6314659abba61782c6cb983.md) |
 | 32 | 169. Majority Element |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/169%20Majority%20Element%20ee712db24f8b419087e7c34d539962d6.md) |
 | 33 | 202. Happy Number |  $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/202.%20Happy%20Number.md) |
