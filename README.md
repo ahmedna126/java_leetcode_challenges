@@ -1,8 +1,23 @@
 # problem solving 
 
-<!-- ![Alt](https://repobeats.axiom.co/api/embed/dc5300032e167f8de99ba99130f16c34fc1a26c2.svg "Repobeats analytics image")   -->
+  
+<!-- 
+💪 Contributions
+-----
+
+![Alt](https://repobeats.axiom.co/api/embed/dc5300032e167f8de99ba99130f16c34fc1a26c2.svg "Repobeats analytics image") 
+-->
 
 
+<!-- 
+👨‍💻 Community
+-----
+<p align="center">
+<a href="https://github.com/ahmedna126/java_leetcode_challenges/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ahmedna126/java_leetcode_challenges&max=300">
+</a>
+</p>
+-->
 
 
 <!--### visitors 
